@@ -1,0 +1,1 @@
+This repository contains my learning journey and hands-on projects in Web Development and the MERN Stack.
