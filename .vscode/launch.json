@@ -1,5 +1,21 @@
 {
     "configurations": [
+        
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Listen on Port",
+            "type": "jdk",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "8000",
+            "listen": "true"
+        },
     {
         "name": "Attach to Chrome",
         "port": 9222,
